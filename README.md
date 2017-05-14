@@ -20,7 +20,7 @@ On the front-end,
 - edit `public/client.js`, `public/style.css` and `views/index.html`
 - drag in `assets`, like images or music, to add them to your project
 
-
+modified for IBM bluemix
 Made by Fog Creek
 -----------------
 
