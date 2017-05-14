@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "slackchatbot-158302",
+  "private_key_id": "eab39670660ee10158c95f8d751164ec4496dc3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC4lkextNao/SNW\nDFaVP/jRuQlDoDV6+m/qVdnU5jI4j7K52+okYPc+2IXFL36hcz+UgYBsjvvh9K0z\n+HMwoQ5/Xyv5lywhl1m6o4s+ldgp7DwxCta+scnvKgFT4odSJX0Tic/84VTMs0El\nB58U+o7f5YG3eXmsur5AAkcNPlaQSekdv10vmLKmzBhkYk4zLmF802S8RmgCRQwK\nTTKYysCsV/vGRGxNYzaHSrbdGRHllFZtjaIJO1L9u4Vuo73eIg8PcbGgcgrLMC6q\n3sKFIFRNTHibQnh+u/wKFO5WsUJFAnWE4TBJk1mwsed0PVhOeu4RWUjBuB1ZN7AP\n6/cwdxVxAgMBAAECggEBAKqBHp6XFcYpdg+Q/BWHbxaCnn0aKux7Ew/Z14piTLeU\nfRpTene6HgiuRvq7AXSvGWbbLL6aYS76LVeZQwYDb3nWdq9ppbktrhPJ5+Ca1376\nGSuQAIdLgOVr3qgW0rrdqCh5H2dO2V7woddLr/XX8Ev/GxBYpD0ajoxfzjP8hkdm\nfKRijryYKDwQaQtJuVM9ruHq0DWGboMOMcfHgOCVXI8ipiaz41uNTNkF8EWHai80\ng0g1584GiSkqQvd17HSs8GTKtIg+kZVN47jIEzaS0naPEo9YHfKa0mDNkWin3Spw\nQ2UpAHhRSGnTwHePLKjAjCRyrTir1AKFzGMU9BlB7FUCgYEA4E/XxNecX29/Xv+3\n16BN4voZGfXBHVgXxpzGkKTi2KzgTU9d+3KmrmyrgXHxiwLVHS4QltQLZWVMilTD\nCy8648L+CuUi9uy5b/bSqwwRx+ahFTjopLkLg6MKPhcm3yhF/Bu7PGMSM/igSLGr\nv6FZKC7igyBWkSvhT96c2ORdZ1sCgYEA0qnNaflbmd/ZZ2KQrFoN49j3oFgcqX1e\nmMpoD0nbCY9ZE4pKBD5ra9U9luDQbEM/+ODKrju1+gVezhljPNyPVQEfludGhxVt\nk6WZJNq2eYSMTTpGls+NSnU+CtdbtdBg/Rtnapocpo3CQKAN/HW2XrFpEVq4tHJY\nFabX6VJsHCMCgYBcrsDhtZEIIeLIFvMYZkUoXtxWTKPxgv+38fldtLOCgdPgPcYA\nanwSoBYxUypRnOb/upPiLlVTHQsGMUWx7l7v0xby24CZ9HAeoiajxEXoihPO2AfQ\nYCEw0AIga6KFHHfmVnMD3Y+c58Mapkbn1DwpjU3MjmUWcMIVJU87kwhA9wKBgQCL\njPyMVSk/F7CW8g5Qfh9xbksrpvLlvC0sHfktF4nIHXOupA9AHHFgr5PrHOY0sZ/x\nKEhbfyafh2s0MFEzAhDZCLN6bZ6k4acDBdIbPd9fRFUE27PjN36rcls1J1CTcoSt\nZrftQEX2dzXVRbG+KeQzembVnjl5H74GKc4hu/3t7QKBgQC0fq0U69/o5V62vP6h\nw5taJK4dooH3XKbaKabRexivaXzQCqwepjXWkoJKrbOf4DM+rx8/AbVGcc+kMaxA\nPjZ8Lj8zc2xBCjDDQSCp4WJ/HFfrtbFlesjhDhqCq1Bt+0Khvqr0NetaXZBz6vPV\nzOmdPlvd4cFRuQiWTIvLyGfgbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendaraccess@slackchatbot-158302.iam.gserviceaccount.com",
+  "client_id": "115464219574223160153",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendaraccess%40slackchatbot-158302.iam.gserviceaccount.com"
+}
